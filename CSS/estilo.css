@@ -1,0 +1,39 @@
+* {
+    margin: 0px;
+    border-radius: 50px;
+    padding: 20px
+}
+
+.nivel1 {
+    background-color: rgb(50, 45, 45);
+    width: 100%;
+
+}
+
+.nivel2 {
+    background-color: rgb(100, 65, 45);
+    ;
+    margin: 10px;
+
+}
+
+.nivel3 {
+    background-color: rgb(150, 85, 45);
+    ;
+    margin: 10px;
+
+}
+
+.nivel4 {
+
+    background-color: rgb(200, 105, 45);
+    ;
+    margin: 10px;
+
+}
+
+.nivel5 {
+    background-color: rgb(255, 125, 49);
+
+
+}
